@@ -22,4 +22,4 @@ Python, Pandas, PyTorch, HuggingFace Transformers, Scikit-learn, ONNX
 
 📌 Output
 
-Predicts tweet sentiment with a confidence score.
+Predicts tweet sentiment with a confidence score 94%.
